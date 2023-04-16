@@ -1,0 +1,25 @@
+body {
+  background-color: #f8e8a6;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 4px;
+}
+
+.nav-link {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link a {
+  margin: 10px;
+  text-decoration: none;
+  color: green;
+}
